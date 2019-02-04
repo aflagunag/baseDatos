@@ -1,0 +1,27 @@
+{ 
+    "MSG_INFO_GUARDAR": "Registro creado exitosamente",
+    "MSG_INFO_ACTUALIZAR": "Registro actualizado exitosamente",
+    "MSG_INFO_BORRAR": "Registro eliminado exitosamente",
+    "MSG_INFO_CONSULTA": "Registro consultado exitosamente",
+    "MSG_INFO_LISTAR": "Listado exitoso",
+
+    "MSG_ERROR_NO_INFO_CONSULTA": "No se encuentran datos de la consulta",
+    "MSG_ERROR_NO_INFO_LISTADO": "No existen datos para listar",
+    "MSG_ERROR_NO_INFO_ELIMINAR": "No se ha elimiando ningún registro",
+    "MSG_ERROR_NO_INSERT":"No ha sido posible realizar el proceso de guardar",
+    "MSG_ERROR_NO_UPDATE":"No ha sido posible realizar el proceso de actualizar",
+    "MSG_ERROR_NO_DELETE": "No ha sido posible realizar el proceso de eliminar",
+    "MSG_ERROR_NO_DATA": "No han sido enviados datos completos para realizar el proceso",
+
+    "MSG_ERROR_SP": "Ocurrió un error al realizar la operación",
+
+    "MSG_OK":"OK",
+    "MSG_ERROR": "ERROR",
+    
+    "RUTA_GUARDAR_ARCHIVOS_REGISTRO_REQUERIMIENTO": "C:\\wfianzas-files\\",
+    "RUTA_GUARDAR_ARCHIVOS_MODAL_AYUDA": "C:\\wfianzas-files-ayuda\\",
+    "RUTA_HTTP_ARCHIVOS_MODAL_AYUDA": "http://localhost:8083/ayudaWF/ayuda/",
+    "MSG_INFO_ARCHIVO_CARGADO": "Archivo subido exitosamente",
+    "MSG_ERROR_NO_CARGA_ARCHIVO": "No ha sido posible cargar el archivo"
+    
+}

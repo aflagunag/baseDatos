@@ -1,0 +1,16 @@
+{
+    "db": {
+        "name": "db",
+        "connector": "memory"
+    },
+    "BASEDATOS": {
+        "host": "127.0.0.1",
+        "port": 3306,
+        "url": "",
+        "database": "BASEDATOS",
+        "password": "",
+        "name": "BASEDATOS",
+        "user": "root",
+        "connector": "mysql"
+    }
+}
